@@ -5,7 +5,7 @@
 
 ## 👾 Exercícios
 
-###1. Estatística Descritiva
+### 1. Estatística Descritiva
 
 <!------------------------------------>
 
