@@ -6,23 +6,11 @@
 ## 👾 Exercícios
 
 ### 1. Estatística Descritiva
+- Análise gráfica de atributos de um censo realizado na turma.
 
 <!------------------------------------>
 
-## 👨‍🏫 Professor responsável
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#" title="Prof. Daniel R. Cassar">
-        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
-          <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 🤝 Colaboradores
+## 🤝 Autor
 
 <table>
   <tr>
@@ -36,6 +24,18 @@
 </table>
 
 
+## 👨‍🏫 Professor responsável
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Prof. Daniel R. Cassar">
+        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
+          <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
